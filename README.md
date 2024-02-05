@@ -22,7 +22,7 @@ This project marks the conclusion of the 'Exploratory Data Analysis' sprint. The
 
 Technologies Used: `Pandas` `Seaborn` `Matplotlib` `Plotly Express`
 
-### 4. [Predicting the amount of extracted gold]([https://github.com/Jrocatelli/tripleten-projects/tree/main/videogame_store](https://github.com/Jrocatelli/tripleten-projects/tree/main/gold_extraction))
+### 4. [Predicting the amount of extracted gold](https://github.com/Jrocatelli/tripleten-projects/tree/main/gold_extraction)
 This project represents the final stage of the 10th sprint at the TripleTen Data Science Bootcamp. The goal is to build a machine learning model capable of predicting the quantity of gold extraction. This prediction will rely on data from three datasets containing information about gold extraction and purification, encompassing various parameters provided within the datasets.
 
 Technologies Used: `Cross-validation` `Pandas` `Seaborn` `Matplotlib` `DecisionTreeRegressor` `RandomForestRegressor` `LinearRegression` `Metrics and scoring`
